@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @magno2M
+- 👨🏿‍ Hi, I’m @magno 2M
 - 👀 I’m interested i aprender mas ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻  Atualmente estou estudando python...
 
-<!---
-magno2M/magno2M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/magno2M">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magno2M&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magno2M&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+
+<div>
+  <a href="https://instagram.com/magno_brazza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
