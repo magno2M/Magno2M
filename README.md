@@ -1,5 +1,6 @@
-- 👨🏿‍ Hi, I’m @magno 2M
-- 💻  Atualmente estou estudando tecnologia front end...
+- 👨🏿‍ Hi, ich bin @magno 2M
+- 💻  Gerader lerne ich Python Alls  
+front end...
 
 <div align="center">
   <a href="https://github.com/magno2M">
